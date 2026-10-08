@@ -1,0 +1,10 @@
+{
+  "name": "intent",
+  "version": "0.1.0",
+  "description": "Intent-driven sessions: each feature runs as a living spec in docs/intent/<feature>/, carried out by a background worker against an acceptance list, with proof from real tool output.",
+  "author": { "name": "Tin Nguyen" },
+  "homepage": "https://github.com/AskTinNguyen/intent",
+  "repository": "https://github.com/AskTinNguyen/intent",
+  "license": "MIT",
+  "keywords": ["intent", "spec", "orchestrator", "worker", "acceptance", "workflow"]
+}

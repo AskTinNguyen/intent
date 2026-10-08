@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "intent",
+  "description": "Intent-driven sessions for Claude Code and other coding agents.",
+  "owner": { "name": "Tin Nguyen" },
+  "plugins": [
+    {
+      "name": "intent",
+      "description": "Run each feature as a living intent in docs/intent/<feature>/ with a background worker and proof from tool output.",
+      "version": "0.1.0",
+      "author": { "name": "Tin Nguyen" },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
